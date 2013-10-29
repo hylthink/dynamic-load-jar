@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.static_lib.StaticLibActivity" android:label="@string/static_lib_name"></activity>
-    </application>
+        <activity android:name="com.example.dynamic_lib.DynamicLibActivity"></activity>
+        </application>
 
 </manifest>
